@@ -1,8 +1,11 @@
 <h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-free.svg" alt="Font Awesome 5 Pro" width="50%"></h1>
 
 > Version 5 – the iconic SVG, font, and CSS framework
-> Via JSDelivr
-> <link href="https://cdn.jsdelivr.net/gh/sapthesh/font-awesome-pro@0ac23ca/css/all.css" rel="stylesheet" type="text/css" />
+
+```
+Via JSDelivr
+<link href="https://cdn.jsdelivr.net/gh/sapthesh/font-awesome-pro@0ac23ca/css/all.css" rel="stylesheet" type="text/css" />
+```
 
 The internet's most popular icon toolkit has been redesigned and built from
 scratch. On top of this, features like icon font ligatures, an SVG framework,
