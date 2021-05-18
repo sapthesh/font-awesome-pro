@@ -2,8 +2,9 @@
 
 > Version 5 – the iconic SVG, font, and CSS framework
 
+
+**Via JSDelivr**
 ```
-Via JSDelivr
 <link href="https://cdn.jsdelivr.net/gh/sapthesh/font-awesome-pro@0ac23ca/css/all.css" rel="stylesheet" type="text/css" />
 ```
 
