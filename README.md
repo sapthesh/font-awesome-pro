@@ -145,3 +145,5 @@ learn about Font Awesome.
 * [Jason Otero](https://github.com/deathnfudge)
 * [Edward Emanuel](https://github.com/ej2)
 * [Geremia Taglialatela](https://github.com/tagliala)
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/sapthesh)
