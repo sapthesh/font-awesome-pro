@@ -1,6 +1,6 @@
 <h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-free.svg" alt="Font Awesome 5 Pro" width="50%"></h1>
 
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/sapthesh/font-awesome-pro?style=plastic"> <img alt="jsDelivr hits (GitHub)" src="https://img.shields.io/jsdelivr/gh/hd/sapthesh/font-awesome-pro?style=plastic"> ![Profile views](https://gpvc.arturio.dev/sapthesh) [![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/sapthesh/font-awesome-pro/badge?style=rounded)](https://www.jsdelivr.com/package/gh/sapthesh/font-awesome-pro)
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/sapthesh/font-awesome-pro?style=plastic"> <img alt="jsDelivr hits (GitHub)" src="https://img.shields.io/jsdelivr/gh/hd/sapthesh/font-awesome-pro?style=plastic"> ![Profile views](https://gpvc.arturio.dev/sapthesh) [![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/sapthesh/font-awesome-pro/badge?style=rounded)](https://www.jsdelivr.com/package/gh/sapthesh/font-awesome-pro) [![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/sapthesh/font-awesome-pro)](https://www.jsdelivr.com/package/gh/sapthesh/font-awesome-pro)
 
 
 
