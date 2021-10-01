@@ -7,8 +7,13 @@
 
 
 **Via JSDelivr**
+UNMINIFIED
 ```
 <link href="https://cdn.jsdelivr.net/gh/sapthesh/font-awesome-pro@0ac23ca/css/all.css" rel="stylesheet" type="text/css" />
+```
+MINIFIED
+```
+<link href="https://cdn.jsdelivr.net/gh/sapthesh/font-awesome-pro@0ac23ca/css/all.min.css" />
 ```
 
 The internet's most popular icon toolkit has been redesigned and built from
